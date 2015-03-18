@@ -1,1 +1,4 @@
 hello
+new task(s) for today:
+use github
+start testing intacct
