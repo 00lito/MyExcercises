@@ -1,4 +1,10 @@
 hello
+=======================
+edits below are from notepad
 new task(s) for today:
 use github
 start testing intacct
+=======================
+edits below are from rubymin
+start learning rubymine and ruby and git
+
